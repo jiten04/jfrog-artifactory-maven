@@ -33,12 +33,12 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-jar-plugin</artifactId>
-                    <version>2.4.0</version>
+                    <version>2.4</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-war-plugin</artifactId>
-                    <version>2.4.0</version>
+                    <version>2.4</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -51,7 +51,7 @@
             <plugin>
                 <groupId>org.jfrog.buildinfo</groupId>
                 <artifactId>artifactory-maven-plugin</artifactId>
-                <version>2.6.1</version>
+                <version>2.4</version>
                 <inherited>false</inherited>
                 <executions>
                     <execution>
